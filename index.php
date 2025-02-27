@@ -39,7 +39,9 @@ curl_close($ch);
     }
     /* Opcional: fondo claro para el body */
     body {
-      background-color: #f8f9fa;
+      background-color:rgb(20, 20, 20);
+      color: white;
+      font: 1em sans-serif;
     }
   </style>
 </head>
